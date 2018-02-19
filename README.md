@@ -1,5 +1,5 @@
 # IVP2
-DH2321 Information Visualization - Project 2
+DH2321 Information Visualization - Project 2 | http://git.guptasiddhant.com/IVP2
 
 ## Analytical Trail 1
 
