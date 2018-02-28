@@ -1,6 +1,8 @@
 # IVP2
 DH2321 Information Visualization - Project 2 | http://git.guptasiddhant.com/IVP2
 
+[![DOI](https://zenodo.org/badge/122073846.svg)](https://zenodo.org/badge/latestdoi/122073846)
+
 ## Analytical Trail 1
 
 Started at www.worldvaluessurvey.org, searched for countries appearing over all time-periods (wave). I particularly liked the sub-group about children qualities. People are surveyed in multiple countries to determine which qualities are most desired/seen in children during that time-period. 
